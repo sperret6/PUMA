@@ -1,0 +1,2 @@
+[console_scripts]
+pumaz = pumaz.pumaz:main
